@@ -14,7 +14,7 @@
 		<jsp.api.version>2.3.1</jsp.api.version>
 		<json.version>2.6.3</json.version>
 		<jstl.version>1.2</jstl.version>
-		<hibernate.version>4.3.6.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<spring.data>1.11.5.RELEASE</spring.data>
 		<mysql.version>8.0.13</mysql.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
